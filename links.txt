@@ -1,0 +1,6 @@
+https://www.sheffield.ac.uk/polopoly_fs/1.885207!/file/99_Mann_Whitney_U_Test.pdf
+https://towardsdatascience.com/clearly-explained-pearson-v-s-spearman-correlation-coefficient-ada2f473b8
+https://www.statstutor.ac.uk/resources/uploaded/spearmans.pdf
+http://www.r-tutor.com/elementary-statistics/non-parametric-methods/mann-whitney-wilcoxon-test
+https://socratic.org/questions/what-is-a-paired-and-unpaired-t-test-what-are-the-differences
+http://www.sthda.com/english/wiki/unpaired-two-samples-t-test-in-r

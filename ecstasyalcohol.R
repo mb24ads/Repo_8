@@ -1,0 +1,5 @@
+library(readr)
+ecstasyalcohol <- read_csv("ecstasyalcohol.csv")
+View(ecstasyalcohol)
+aggregate(ecstasyalcohol,by=list(ecstasyalcohol$Drug),FUN=mean)
+aggregate(ecstasyalcohol,by=list(ecstasyalcohol$Drug),FUN=median)

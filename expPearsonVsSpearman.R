@@ -1,0 +1,6 @@
+x<-seq(1,10,0.5)
+y<-exp(x)
+plot(x,y)
+cor(x,y)
+abline(lm(y~x))
+cor(x,y,method="spearman")

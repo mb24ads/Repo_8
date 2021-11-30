@@ -1,0 +1,6 @@
+library(tidyverse)
+groundwater <- read_csv("groundwater.csv")
+hist(groundwater$`Uranium conc (ppb)`)
+hist(groundwater$`TDS(mg/L)`)
+cor(groundwater$`Uranium conc (ppb)`,groundwater$`TDS(mg/L)`)
+cor.test(groundwater$`Uranium conc (ppb)`,groundwater$`TDS(mg/L)`,method="spearman")

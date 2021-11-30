@@ -1,0 +1,29 @@
+recap correlation tutor vs student marks - show both are normal
+show boxplot
+histogram
+scatterplot
+cor test
+t test
+this is parametric
+
+do compare marks
+Marks  https://statistics.laerd.com/statistical-guides/spearmans-rank-order-correlation-statistical-guide-2.php
+does score in english correlate with score in maths
+
+Intro to spearman
+https://www.statstutor.ac.uk/resources/uploaded/spearmans.pdf
+do exponentials
+
+Do groundwater samples (play with hist + boxplot)
+
+
+
+mann whitney test
+open mtcars
+show distribution of mpg
+show means of mpg per gear type
+
+mannwhitney diet R
+note the shape of diets 2 and 3
+
+ecstasy alcohol mann whitney test
