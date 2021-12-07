@@ -16,7 +16,7 @@ plot(dfTsc$Student,dfTsc$Tutor)
 cor.test(dfTsc$Student,dfTsc$Tutor,method="pearson")
 
 #we can reject null hypothesis that the difference in means was an effect of chance
-t.test(dfTsc$Student,dfTsc$Tutor,paired=TRUE)
+t.test(dfTsc$Student,dfTsc$Tutor,paired=FALSE)
 
 
 
